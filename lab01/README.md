@@ -1,17 +1,8 @@
-# Modelo para Apresentação do Lab01 - API Acesso
-
-Estrutura de pastas:
-
-~~~
-├── README.md  <- arquivo apresentando a tarefa
-│
-├── images     <- arquivo de imagem da tarefa
-│
-└── notebook   <- arquivos do notebook
-~~~
-
 # Aluno
-* `<nome completo>`
+* Eduardo Carvalheira Teixeira de Aguiar
+
+# RA
+* 233686
 
 ## Tarefa 1 sobre APIs de acesso
 
