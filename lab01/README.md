@@ -15,4 +15,4 @@
 > ![Diagrama de Orquestração Link 1](images/diagrama_1.png)
 
 * Diagrama de Orquestração API - Alerta Dengue RJ
-* > ![Diagrama de Orquestração Link 2](images/diagrama_2.png)
+> ![Diagrama de Orquestração Link 2](images/diagrama_2.png)
