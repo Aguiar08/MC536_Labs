@@ -11,8 +11,5 @@
 
 ## Tarefa 2 sobre Engenharia Reversa
 
-* Diagrama de Orquestração API - Municípios de SP e RJ
-> ![Diagrama de Orquestração Link 1](images/diagrama_1.png)
-
 * Diagrama de Orquestração API - Alerta Dengue RJ
 > ![Diagrama de Orquestração Link 2](images/diagrama_2.png)
