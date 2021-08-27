@@ -6,4 +6,4 @@
 
 # Tarefa sobre Acesso a DBPedia, MeSH e OpenStreetMap
 * As quatro tarefas relacionadas estão presentes neste link:
-> ![Tarefas](notebook/lab2-logic-model-dbpedia.ipynb)
+> ![Tarefas](notebook/lab2_logic_model_dbpedia.ipynb)
