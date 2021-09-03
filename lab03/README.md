@@ -6,4 +6,4 @@
 
 ## Tarefa sobre Consultas SQL no NHANES
 
-> ![LINK](notebook/lab03_nhanes.ipynb)
+> ![LINK](notebook/lab03-nhanes.ipynb)
