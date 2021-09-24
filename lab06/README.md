@@ -7,8 +7,7 @@
 
 | campo | valor |
 |------------|----------------------------------------|
-| referência | `Felipe F. Vasconcelos, João V. S. Tavares, Murilo U. Ribeiro, Fabio J. Coutinho, João Paulo Clarindo:
-CandiDATA: um dataset para análise das eleições no Brasil. Dataset Showcase Workshop, SBBD 2021. https://sites.google.com/view/sbbd-dsw/artigos?authuser=0` |
+| referência | `Felipe F. Vasconcelos, João V. S. Tavares, Murilo U. Ribeiro, Fabio J. Coutinho, João Paulo Clarindo: CandiDATA: um dataset para análise das eleições no Brasil. Dataset Showcase Workshop, SBBD 2021. https://sites.google.com/view/sbbd-dsw/artigos?authuser=0` |
 | link       | `https://drive.google.com/file/d/10hh-MLRk9omaGwdormsXwQa7O7XHXFhT/view` |
 | dataset | `https://github.com/felipeVsc/CandiDATA` |
 | formato | `.CSV` |
