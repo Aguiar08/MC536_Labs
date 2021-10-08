@@ -17,9 +17,13 @@ Estrutura de pastas:
 >
 > ![Diagrama de Orquestração](images/modelo-logico-grafos.png)
 
+> Segue o modelo criado para o sistema de Torneios e Jogos de Xadrez:
+>
+> ![Diagrama Xadrez](images/lab07.png)
+
 ## Perguntas de Pesquisa/análise
 
 > Liste aqui as três perguntas de pesquisa/análise
-> * Pergunta 1
-> * Pergunta 2
-> * Pergunta 3
+> * Quais jogadores são mais propensos a ganharem um torneio?
+> * Em um torneio que contêm um range X->Y de rating, qual a probabilidade de alguem com rating X vencer?
+> * Quais jogadores vão participar do torneio?
