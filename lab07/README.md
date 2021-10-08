@@ -24,6 +24,6 @@ Estrutura de pastas:
 ## Perguntas de Pesquisa/análise
 
 > Liste aqui as três perguntas de pesquisa/análise
-> * Quais jogadores são mais propensos a ganharem um torneio?
-> * Em um torneio que contêm um range X->Y de rating, qual a probabilidade de alguem com rating X vencer?
+> * Qual a classificação de cada jogador no torneio?
+> * Qual a quantidade total de jogos que foram jogados no torneio?
 > * Quais jogadores vão participar do torneio?
