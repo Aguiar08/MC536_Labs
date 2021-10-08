@@ -19,7 +19,7 @@ Estrutura de pastas:
 
 > Segue o modelo criado para o sistema de Torneios e Jogos de Xadrez:
 >
-> ![Diagrama Xadrez](images/lab07.png)
+> ![Diagrama Xadrez](images/chess.png)
 
 ## Perguntas de Pesquisa/análise
 
