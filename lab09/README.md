@@ -3,7 +3,7 @@
 # Aluno
 * `233686`: `Eduardo Carvalheira Teixeira de Aguiar`
 
-# Modelo Lógico do Banco de Dados de Grafos
+## Modelo Lógico do Banco de Dados de Grafos
 
 • Como você publicaria seus dados ou parte dos seus dados na forma de um grafo de
 conhecimento. Use um exemplo de um grafo (apresente na forma de para ilustrar o
